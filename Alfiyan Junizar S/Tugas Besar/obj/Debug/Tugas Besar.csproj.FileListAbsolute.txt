@@ -1,0 +1,14 @@
+c:\users\alfiyan junizar s\documents\visual studio 2013\Projects\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.exe.config
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.exe
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.pdb
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Form1.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Properties.Resources.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.csproj.GenerateResource.Cache
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.exe
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.pdb
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Form3.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Form4.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Form2.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Form5.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Form6.resources
+C:\Users\Alfiyan Junizar S\Documents\Visual Studio 2013\Projects\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.csprojResolveAssemblyReference.cache
